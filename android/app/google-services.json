@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "494242411428",
+    "project_id": "chitchat-e540c",
+    "storage_bucket": "chitchat-e540c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494242411428:android:127ea74d8aedf3a5a24731",
+        "android_client_info": {
+          "package_name": "com.example.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494242411428-netv03nac9pn69f9tjh6s62no83h6b4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0LG996tUZqs_Y_9DwH0lI1Uc1gEcrxIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494242411428-netv03nac9pn69f9tjh6s62no83h6b4c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494242411428-3s1gqrch0lb5fqcngpipuvui6m9ldol3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chitchat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
